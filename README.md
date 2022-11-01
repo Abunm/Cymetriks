@@ -1,4 +1,4 @@
-# WinWin-server
+# Cymetriks-server
 
 Install
 -------
