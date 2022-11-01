@@ -5,7 +5,7 @@ Install
 
 ```bash
 brew install yarn
-cd WinWin-server
+cd Cymetriks-server
 yarn install
 ```
 
